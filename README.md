@@ -2,7 +2,7 @@
 
 ## 👤 Sobre mim
 **Nome:** Francisco Alessandro Vieira Barbosa  
-**Curso:** Análise e Desenvolvimento de Sistemas  
+**Curso:** licenciatura em computação
 **Turma:** Linguagem de Programação I  
 
 ## 🎯 Objetivo da Disciplina
